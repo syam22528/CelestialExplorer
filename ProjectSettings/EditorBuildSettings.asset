@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Black Hole.unity
+    guid: 91d011d8adbf40e41b31da493eeaa72a
+  - enabled: 1
+    path: Assets/Scenes/Neptune.unity
+    guid: 67722731291b7a140b82c79111ccb561
+  - enabled: 1
+    path: Assets/Scenes/Mars.unity
+    guid: c2f5b04d56ccf684d8554e120f066a89
+  - enabled: 1
+    path: Assets/Scenes/Jupiter.unity
+    guid: 9411e54f50aeb7648bfd0eebd512c0f5
+  - enabled: 1
+    path: Assets/Scenes/Venus.unity
+    guid: 665f2e60e7de3bd41bfdcc708891b13c
+  - enabled: 1
+    path: Assets/Scenes/Saturn.unity
+    guid: 7639364b94e5b52488af94933b9beae2
+  - enabled: 1
+    path: Assets/Scenes/start_Game.unity
+    guid: 1e6718390cb113a4c9ca41b9607354f3
+  - enabled: 1
+    path: Assets/Scenes/Jupiter.unity
+    guid: 9411e54f50aeb7648bfd0eebd512c0f5
+  - enabled: 1
+    path: Assets/Scenes/Moon Surface.unity
+    guid: a83c6638ee937b245aaf6880e8c93803
+  - enabled: 1
+    path: Assets/Scenes/Earth.unity
+    guid: 8d60c37f1bf76e84f9d70027bf602a7a
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 28dbecea8b3ab3a408d639a0fc2be1ed, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ce1c4f352677f8441ad71cccd08ad04e, type: 2}
